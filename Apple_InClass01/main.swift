@@ -5,7 +5,6 @@
 //  Created by Reid Nolan on 8/31/17.
 //  Copyright © 2017 Reid Nolan. All rights reserved.
 //
-//test commit
 
 import Foundation
 
